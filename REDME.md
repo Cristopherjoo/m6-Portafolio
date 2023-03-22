@@ -1,0 +1,13 @@
+# Entrega portafolio M4
+
+Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web de Ecommerce para el módulo 6.
+
+
+
+
+## Tecnologías utilizadas
+
+Para ello se utilizaron las siguientes tecnologías: HTML para  la estructura del documento, CSS para dar el estilo, Bootstrap v5.3 creación de navbar, botones, estilos css, uso de node.js npm express-handlebars, npm uuidv4 generador de id, npm moment, entre otros.
+        
+
+### Link del repositorio

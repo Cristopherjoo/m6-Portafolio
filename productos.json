@@ -1,0 +1,28 @@
+{
+    "productos": [
+        {
+            "id": "5e6410",
+            "nombre": "Iphone",
+            "descripcion": "Apple Iphone 14 pro balck",
+            "precio": "22000",
+            "stock": "5",
+            "img": "https://i.ibb.co/6JLHWd6/iph14black.jpg"
+        },
+        {
+            "nombre": "Iphone",
+            "descripcion": "Apple Iphone 14 pro gold",
+            "precio": "30000",
+            "stock": "2",
+            "img": "https://i.ibb.co/QKBXLCp/iph14gold.jpg",
+            "id": "36db64"
+        },
+        {
+            "nombre": "Iphone ",
+            "descripcion": "Apple Iphone 14 pro",
+            "precio": "32000",
+            "stock": 4,
+            "img": "https://i.ibb.co/Kq7wy5R/iph14plusblue.jpg",
+            "id": "438c0a"
+        }
+    ]
+}

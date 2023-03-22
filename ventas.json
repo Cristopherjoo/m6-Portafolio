@@ -1,0 +1,48 @@
+{
+    "ventas": [
+        {
+            "id": "8ef7bd",
+            "fecha": "23-02-2023",
+            "productos": [
+                {
+                    "id": "f9ff02",
+                    "cantidad": 1
+                }
+            ],
+            "total": 45000
+        },
+        {
+            "id": "9e158e",
+            "fecha": "23-02-2023",
+            "productos": [
+                {
+                    "id": "53c4ed",
+                    "cantidad": 1
+                }
+            ],
+            "total": 15000
+        },
+        {
+            "id": "c419c8",
+            "fecha": "23-02-2023",
+            "productos": [
+                {
+                    "id": "53c4ed",
+                    "cantidad": "2"
+                }
+            ],
+            "total": 30000
+        },
+        {
+            "id": "ddc5c4",
+            "fecha": "22-03-2023",
+            "productos": [
+                {
+                    "id": "438c0a",
+                    "cantidad": 1
+                }
+            ],
+            "total": 32000
+        }
+    ]
+}
