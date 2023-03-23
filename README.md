@@ -15,9 +15,9 @@ Para ello se utilizaron las siguientes tecnologías: HTML para  la estructura de
  Datos para  ingrear en pagina inventario por falta de stock:
 ##### nombre: Apple Iphone
 ##### descripcion: Descripción producto 1
-precio: 1500
-img: https://i.ibb.co/WDsvHjY/iph14plusmora.jpg
-stock: 10
+##### precio: 1500
+##### img: https://i.ibb.co/WDsvHjY/iph14plusmora.jpg
+##### stock: 10
 
 ### Link del repositorio
 
