@@ -12,9 +12,9 @@ Para ello se utilizaron las siguientes tecnologías: HTML para  la estructura de
 
 ### dato para ingresar a invetarios 
 
-Datos para  ingrear en pagina inventario por falta de stock:
-nombre: Apple Iphone
-descripcion: Descripción producto 1
+ Datos para  ingrear en pagina inventario por falta de stock:
+##### nombre: Apple Iphone
+##### descripcion: Descripción producto 1
 precio: 1500
 img: https://i.ibb.co/WDsvHjY/iph14plusmora.jpg
 stock: 10
